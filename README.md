@@ -2,6 +2,8 @@
 
 This repository contains code for training and evaluating an image-caption ranking model. The model uses a combination of image and caption encoders to generate embeddings and a ranker to compute the ranking of candidate images based on their relevance to a given caption.
 
+python >= 3.10
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
